@@ -1,0 +1,1 @@
+nnoremap cm $?fun<Space><CR>^ma]m]M<C-v>`aI//<Space><Esc>
